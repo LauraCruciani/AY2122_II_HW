@@ -91,7 +91,7 @@ You have to set up the ISR accordingly to guarantee the required transmission da
 
 ### Setup and Assignment Delivery
 - One student from the team forks this repository 
-- Following the forking of the repository, the other team member(s) are added as collaborators via GitHub (as you did with the previous assignments)
+- Following the forking of the repository, the other team member(s) are added as collaborators via GitHub
 - Each team member clones the forked repository by entering the following command in the terminal:
 
     `git clone https://github.com/[your_username]/AY2122_II_HW.git`
